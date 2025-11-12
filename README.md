@@ -1,5 +1,3 @@
-# Dokumentacja i raport końcowy
-
 ## Opis usługi medycznej oraz dokumentów stworzonych w projekcie
 
 Projekt dotyczy usługi telekonsultacji zdrowotnych prowadzonej zdalnie (wideo, telefon lub komunikatory), aby skrócić czas oczekiwania pacjenta i obniżyć koszty świadczeń. Najważniejsze materiały w repozytorium to: `opis_usługi.txt` (szczegóły świadczenia i korzyści), `plan_wdrożenia.txt` (podział prac na etapy), `ryzyka.txt` (zagrożenia i działania zapobiegawcze), `kampania_marketingowa.txt` oraz `ankieta_pacjentów.txt` (materiały z gałęzi `marketing`) i `images/logo.png` (prototyp identyfikacji wizualnej).
