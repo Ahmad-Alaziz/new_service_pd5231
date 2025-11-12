@@ -1,0 +1,2 @@
+# treat images as binary (no line-ending conversions)
+images/* -text
